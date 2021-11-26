@@ -1,9 +1,5 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
     "title": "This is a test",
     "text": "Here are my test details",
     "id": "sktwi3nskwggs9ce"
@@ -12,5 +8,15 @@
     "title": "Here's another note",
     "text": "Details go here",
     "id": "sktwi3nskwggtdb3"
+  },
+  {
+    "title": "Testing",
+    "text": "Testing testing 123",
+    "id": "sktwi3t5kwgh28qg"
+  },
+  {
+    "title": "Another note",
+    "text": "This is a test.",
+    "id": "sktwi3t5kwgh48s3"
   }
 ]
