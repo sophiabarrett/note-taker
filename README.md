@@ -4,7 +4,7 @@
 Simple note taker app to keep track to thoughts and to-dos.
 
 ## Live App
-Deployed live at 
+Deployed live on Heroku. [Click here to visit live app!](https://powerful-cove-20726.herokuapp.com/)
 
 ## Installation
 Download and install dependencies.
